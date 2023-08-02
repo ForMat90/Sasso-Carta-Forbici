@@ -1,0 +1,2 @@
+Main-Class: com.play.stonepaperscissors.StonePaperScissorsApplication
+Class-Path: lib/javafx.base.jar lib/javafx.controls.jar lib/javafx.fxml.jar lib/javafx.web.jar lib/javafx.media.jar
