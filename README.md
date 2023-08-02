@@ -6,7 +6,7 @@ Ottimo! Segui le istruzioni e metti alla prova le tue abilità.
 
 1. Copia il link di GIT
 2. Assicurati di aver installato un IDE sul tuo computer (Intellij, Visual Studio Code ecc)
-3. Crea una cartella e al suo interno apri GIT BASH
+3. Crea una cartella e al suo interno apri il terminale
 4. Scrivi git clone e incolla il link copiato
 5. Una volta scaricati tutti i file, apri il progetto con l'IDE che preferisci
 6. vai nella cartella src/main/java/com.play.stonepaperscissors/StonePaperScissorsApplication.java
